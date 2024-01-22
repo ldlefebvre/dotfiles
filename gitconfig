@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = laurentlefebvre8@hotmail.com
+	name = Laurent Lefebvre
